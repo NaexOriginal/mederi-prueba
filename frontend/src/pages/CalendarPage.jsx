@@ -1,4 +1,3 @@
-// CalendarPage.jsx
 import { useState, useEffect } from "react";
 import { Sidebar } from "../components/SideBar";
 import { Notification, showErrorToast } from "../components/Notification";
